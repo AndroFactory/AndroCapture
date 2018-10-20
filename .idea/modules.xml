@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroCapture.iml" filepath="$PROJECT_DIR$/AndroCapture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CaptureCore/CaptureCore.iml" filepath="$PROJECT_DIR$/CaptureCore/CaptureCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CaptureCrop/CaptureCrop.iml" filepath="$PROJECT_DIR$/CaptureCrop/CaptureCrop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CaptureTake/CaptureTake.iml" filepath="$PROJECT_DIR$/CaptureTake/CaptureTake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample/Sample.iml" filepath="$PROJECT_DIR$/Sample/Sample.iml" />
+    </modules>
+  </component>
+</project>
